@@ -1,4 +1,4 @@
-# Loan-Prediction-Using-Keras
+# Loan-Prediction
 
 ![Dataset](https://img.shields.io/badge/DataSet-https%3A%2F%2Fwww.kaggle.com%2Fwordsforthewise%2Flending--club-yellow) ![Python 3.7](https://img.shields.io/badge/Python-3.7-brightgreen.svg) ![library](https://img.shields.io/badge/Library-Keras-red)
 
