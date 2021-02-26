@@ -6,4 +6,19 @@
 • This repository consists of Loan Prediction Model which predict the new custome will repay the loan or not  .<br/>
 • Datasets are provided in each of the folders above, and the solution to the problem statements as well.
 
+
+# TensorBoard
+![scaler](scaler.png)
+![graphs](graphs.png)
+![histograms](histograms.png)
+![distributions](distributions.png)
+
+
+
+
+
+
+
 **Do ⭐ the repository.**
+
+
